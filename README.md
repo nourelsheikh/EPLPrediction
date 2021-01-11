@@ -1,1 +1,1 @@
-# EPLPrediction
+# epl_predictor
